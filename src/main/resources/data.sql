@@ -1,0 +1,1 @@
+insert into company (name, sales) VALUES ('google',10000), ('amazon',20000),('microsoft',30000),('tesla',25000)
